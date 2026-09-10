@@ -36,6 +36,10 @@ Há também pedro.lima@mackenzie.br (solicitante) e juliana.alves@mackenzie.br (
 
 Os dados ficam no navegador. O botão Restaurar demo recoloca os chamados de exemplo.
 
+## Versões
+
+A tag `v1` marca a primeira publicação. A branch `iteracao2` e a tag `v2` incluem a busca por protocolo, título ou categoria e a cópia do protocolo no detalhe do chamado.
+
 ## Grupo 9
 
 - Maria Clara Ferreira Claudino — RA 10727380

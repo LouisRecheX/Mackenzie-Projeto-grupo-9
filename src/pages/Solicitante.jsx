@@ -32,7 +32,7 @@ export default function Solicitante({ sessao }) {
       </div>
 
       <div className="filters">
-        <input className="input" value={busca} onChange={(e) => setBusca(e.target.value)} placeholder="Buscar por protocolo, título ou categoria" />
+        <input className="input" type="search" value={busca} onChange={(e) => setBusca(e.target.value)} placeholder="Buscar por protocolo, título ou categoria" aria-label="Buscar solicitações" />
       </div>
 
       <div className="card table-wrap">
